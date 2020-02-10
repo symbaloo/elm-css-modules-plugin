@@ -16,7 +16,7 @@
   "scripts": {
     "build": "tsc",
     "test": "jest",
-    "prepublish": "yarn build"
+    "prepublishOnly": "yarn build"
   },
   "devDependencies": {
     "@types/babel__core": "^7.0.1",
