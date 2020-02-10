@@ -1,8 +1,8 @@
 {
-  "name": "elm-css-modules-plugin",
+  "name": "@symbaloo/elm-css-modules-plugin",
   "description": "Babel plugin for use within cultureamp/elm-css-modules-loader",
   "version": "1.0.1",
-  "repository": "git@github.com:cultureamp/elm-css-modules-plugin.git",
+  "repository": "git@github.com:symbaloo/elm-css-modules-plugin.git",
   "author": "Louis Quinnell <zioroboco@gmail.com>",
   "license": "MIT",
   "private": false,
