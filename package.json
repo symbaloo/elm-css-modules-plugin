@@ -10,6 +10,9 @@
   "files": [
     "lib"
   ],
+  "publishConfig": {
+    "registry": "https://nexus.symbaloo.tw/repository/npm-internal"
+  },
   "scripts": {
     "build": "tsc",
     "test": "jest",
